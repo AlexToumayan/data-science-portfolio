@@ -44,7 +44,7 @@ Welcome to my portfolio of finance and data science projects! This repository co
 **Overview:** Built and optimized neural networks for tasks like digit classification and language identification using PyTorch.
 - **Key Technologies:** Python, PyTorch, Neural Networks
 - **Highlights:** Achieved a 97% accuracy on digit classification and 81% on language identification.
-- [Link to Project Files](./ml-digit-language)
+- [Link to Project Files](./Project-5)
 
 ## Getting Started
 To explore these projects, you can clone the repository and navigate through the individual project directories. Each project contains:
